@@ -10,8 +10,3 @@ class SystemControl:
 class FunctionSystem:
     s = Symbol('s')
     Gs = 4 / (s * (s + 2))
-
-
-
-
-
